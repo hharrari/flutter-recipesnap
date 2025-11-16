@@ -76,7 +76,7 @@ class RecipeScreen extends StatelessWidget {
                   SizedBox(height: 12),
                   Text(description),
 
-                  // Popup dialogue button
+                  // Popup dialogue button with colors.
                   SizedBox(height: 16),
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
